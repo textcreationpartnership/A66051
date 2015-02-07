@@ -4226,14 +4226,19 @@ and casuall, or else some Mathe<g ref="char:EOLhyphen"/>maticall
 descriptions. As you may see
 in these following examples.</p>
             <p>By points alone.</p>
-            <figure>
-               <figDesc>scattered dots</figDesc>
-            </figure>
-            <figure>
-               <figDesc>scattered lines</figDesc>
-            </figure>
-            <figure/>
-            <figure/>
+            <p>
+               <pb facs="tcp:99548:54"/>
+               <figure>
+                  <figDesc>scattered dots</figDesc>
+               </figure>
+By lines alone<figure>
+                  <figDesc>scattered lines</figDesc>
+               </figure>
+            </p>
+            <p>
+               <pb n="94" facs="tcp:99548:55"/>By Mathematicall Figures.
+<figure/>By Points, Lines, and Figures mixed together.<figure/>
+            </p>
             <p>
                <pb n="95" facs="tcp:99548:55"/>
 Each of which figures doe expresse
@@ -4293,7 +4298,10 @@ a severall letter.</p>
 if the Alphabet be contrived
 in a Triangular forme, the middle part
 of it being cut out.</p>
-            <figure/>
+            <p>
+               <note place="margin">And so for a square or round form.</note>
+               <figure/>
+            </p>
             <p>The larger these Directories are, by
 so much the lesse lyable unto errour
 will the writing be, that is described
@@ -4337,7 +4345,10 @@ might bee resolved into the letters
 <gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
                </gap>.</p>
-            <figure/>
+            <p>
+               <pb n="98" facs="tcp:99548:57"/>
+               <figure/>
+            </p>
             <p>This marke was esteemed so sacred
 amongst the Ancients, that <hi>Antiochus
 Soter,</hi> a perpetuall conquerour, did al<g ref="char:EOLhyphen"/>ways
